@@ -32,14 +32,13 @@ void Main()
     Array.Resize(ref inputArray, j);
     Array.Resize(ref resultArray, k);
 
-    OutputAction(inputArray);
-    Console.Write(" -> ");
-    OutputAction(resultArray);
+    Console.Write($"{OutputAction(inputArray)} -> {OutputAction(resultArray)}");
 }
 
-void OutputAction(string[] array)
+string OutputAction(string[] array)
 {
-    Console.Write("[");
-    Console.Write(string.Join(", ", array));
-    Console.Write("]");
+    string result = "[" + string.Join(", ", array) + "]";
+    return result;
 }
+
+Main();
