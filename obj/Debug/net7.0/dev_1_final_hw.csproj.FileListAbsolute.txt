@@ -1,0 +1,15 @@
+C:\Users\lneiz\Documents\Git_GB\C#edu\dev_1_final_hw\obj\Debug\net7.0\dev_1_final_hw.csproj.AssemblyReference.cache
+C:\Users\lneiz\Documents\Git_GB\C#edu\dev_1_final_hw\obj\Debug\net7.0\dev_1_final_hw.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lneiz\Documents\Git_GB\C#edu\dev_1_final_hw\obj\Debug\net7.0\dev_1_final_hw.AssemblyInfoInputs.cache
+C:\Users\lneiz\Documents\Git_GB\C#edu\dev_1_final_hw\obj\Debug\net7.0\dev_1_final_hw.AssemblyInfo.cs
+C:\Users\lneiz\Documents\Git_GB\C#edu\dev_1_final_hw\obj\Debug\net7.0\dev_1_final_hw.csproj.CoreCompileInputs.cache
+C:\Users\lneiz\Documents\Git_GB\C#edu\dev_1_final_hw\bin\Debug\net7.0\dev_1_final_hw.exe
+C:\Users\lneiz\Documents\Git_GB\C#edu\dev_1_final_hw\bin\Debug\net7.0\dev_1_final_hw.deps.json
+C:\Users\lneiz\Documents\Git_GB\C#edu\dev_1_final_hw\bin\Debug\net7.0\dev_1_final_hw.runtimeconfig.json
+C:\Users\lneiz\Documents\Git_GB\C#edu\dev_1_final_hw\bin\Debug\net7.0\dev_1_final_hw.dll
+C:\Users\lneiz\Documents\Git_GB\C#edu\dev_1_final_hw\bin\Debug\net7.0\dev_1_final_hw.pdb
+C:\Users\lneiz\Documents\Git_GB\C#edu\dev_1_final_hw\obj\Debug\net7.0\dev_1_final_hw.dll
+C:\Users\lneiz\Documents\Git_GB\C#edu\dev_1_final_hw\obj\Debug\net7.0\refint\dev_1_final_hw.dll
+C:\Users\lneiz\Documents\Git_GB\C#edu\dev_1_final_hw\obj\Debug\net7.0\dev_1_final_hw.pdb
+C:\Users\lneiz\Documents\Git_GB\C#edu\dev_1_final_hw\obj\Debug\net7.0\dev_1_final_hw.genruntimeconfig.cache
+C:\Users\lneiz\Documents\Git_GB\C#edu\dev_1_final_hw\obj\Debug\net7.0\ref\dev_1_final_hw.dll
